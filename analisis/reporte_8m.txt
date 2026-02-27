@@ -1,0 +1,25 @@
+ESTADÍSTICAS: MUJERES TITULADAS EN EL ITAM (8M)
+==================================================
+
+Total titulados/as en el ITAM (Licenciatura): 22,916
+Total mujeres tituladas: 7,717
+Porcentaje de mujeres tituladas en el ITAM: 33.68%
+
+Top 10 carreras por porcentaje de mujeres tituladas:
+  1. CIENCIA DE DATOS: 100.0% (1 de 1)
+  2. RELACIONES INTERNACIONALES: 57.55% (770 de 1,338)
+  3. CIENCIAS SOCIALES: 54.37% (56 de 103)
+  4. CIENCIA POLÍTICA: 41.09% (348 de 847)
+  5. ACTUARÍA: 40.05% (646 de 1,613)
+  6. CONTADURÍA PÚBLICA: 38.74% (788 de 2,034)
+  7. DERECHO: 38.06% (813 de 2,136)
+  8. ADMINISTRACIÓN: 38.0% (1,831 de 4,818)
+  9. CONTADURÍA PÚBLICA Y ESTRATEGIA FINANCIERA: 35.64% (273 de 766)
+  10. INDUSTRIAL: 31.5% (109 de 346)
+
+Top 5 carreras por número absoluto de mujeres tituladas:
+  1. ADMINISTRACIÓN: 1,831 mujeres
+  2. ECONOMÍA: 1,176 mujeres
+  3. DERECHO: 813 mujeres
+  4. CONTADURÍA PÚBLICA: 788 mujeres
+  5. RELACIONES INTERNACIONALES: 770 mujeres
